@@ -1,0 +1,1 @@
+docker run -rm=true -p 49222:22 -p 49083:80 -i -t dashboard /bin/bash
